@@ -30,7 +30,7 @@ cable managemnt items Desk / Network / Housing etc
 
 </BR>
 
-- CAT6
+- [CAT6 - Flat white](https://www.amazon.ca/Ethernet-BUSOHE-Computer-Internet-Network/dp/B07DVZW89Y/ref=sr_1_17?)
 - CAT6A
 - CAT7
 
