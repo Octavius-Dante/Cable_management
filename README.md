@@ -6,6 +6,13 @@ cable managemnt items
 - [VIVO Premium Aluminum Full Motion Single Monitor Desk Mount Stand with Lift Engine Arm](https://www.amazon.ca/gp/product/B07K6WM83H/ref=ox_sc_act_title_2?smid=AX105E1SOBX1B&psc=1)
 - [Cable wrapper](https://www.amazon.ca/dp/B09K3CHHD6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1)
 - [under desk tray for hub](https://www.amazon.ca/dp/B0BPLRX32S?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1)
+- [Wire concealer](https://www.amazon.ca/ZhiYo-Mounted-Paintable-Concealer-L15-7in/dp/B0BR821HXX/ref=sr_1_14?)
+- [Wire duct](https://www.amazon.ca/Raceway-Management-Channel-Computers-Shelves/dp/B081GWZTB7/ref=sr_1_3_sspa?) || [wire duct 2](https://www.amazon.ca/ZhiYo-Management-Raceway-Electrically-Computer/dp/B0BXCRCWX8/ref=sr_1_2_sspa?th=1)
+
+
+
+<!-- 
+
 - []()
 - []()
 - []()
@@ -25,6 +32,6 @@ cable managemnt items
 - []()
 - []()
 - []()
-- []()
-- []()
+
+-->
   
