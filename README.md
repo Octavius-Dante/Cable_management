@@ -1,5 +1,5 @@
 # Cable_management
-cable managemnt items
+cable managemnt items Desk / Network / Housing etc
 
 
 - [cable management spine I](https://www.amazon.ca/gp/product/B0F1V78FRJ/ref=ox_sc_act_title_1?th=1)
