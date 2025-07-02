@@ -34,6 +34,18 @@ cable managemnt items Desk / Network / Housing etc
 - CAT6A
 - CAT7
 
+</BR>
+
+## WIFI - Repeater
+
+</BR>
+
+[TP link](https://www.amazon.ca/TP-Link-AC1900-Range-Extender-RE550/dp/B08TLT65WM/ref=asc_df_B08TLT65WM?th=1)
+
+
+
+</BR>
+
 <!-- 
 
 - []()
