@@ -31,7 +31,7 @@ cable managemnt items Desk / Network / Housing etc
 </BR>
 
 - CAT6
-- CAT6
+- CAT6A
 - CAT7
 
 <!-- 
