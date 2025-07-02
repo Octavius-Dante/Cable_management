@@ -21,7 +21,8 @@ cable managemnt items Desk / Network / Housing etc
 
 - [HDMI 2.1](https://www.amazon.ca/Silkland-48Gbps-Certified-Compatible-Blu-ray/dp/B0CQP2XNYR/ref=sr_1_1_sspa?)
 - [DP 2.1](https://www.amazon.ca/Silkland-DisplayPort-Display-Compatible-FreeSync/dp/B0BCQ6FQ33/ref=sr_1_1_sspa?)
-
+- [USB 3.0 Extension](https://www.amazon.ca/UGREEN-Extension-Braided-Transfer-Playstation/dp/B086ZJB2JN/ref=sr_1_3?th=1)
+- [Audio 3.5 MM Extension - UGREEN](https://www.amazon.ca/UGREEN-Extension-Auxiliary-Headphone-Smartphones/dp/B00LM4ON2E/ref=sr_1_4?th=1) || [Audio 3.5 MM Extension - UGREEN](https://www.amazon.ca/Amazon-Basics-Female-Extension-Adapter/dp/B01CNAV2YW/ref=sr_1_5?)
 
 <!-- 
 
