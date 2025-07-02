@@ -40,7 +40,7 @@ cable managemnt items Desk / Network / Housing etc
 
 </BR>
 
-[TP link](https://www.amazon.ca/TP-Link-AC1900-Range-Extender-RE550/dp/B08TLT65WM/ref=asc_df_B08TLT65WM?th=1)
+[TP link](https://www.amazon.ca/TP-Link-AC1900-Range-Extender-RE550/dp/B08TLT65WM/ref=asc_df_B08TLT65WM?th=1) || [TP-Link AX3000 WiFi 6](https://www.amazon.ca/TP-Link-AC1200-WiFi-Extender-RE315/dp/B08RHD97QY/ref=asc_df_B08RHD97QY?)
 
 
 
