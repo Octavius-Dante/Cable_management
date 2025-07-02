@@ -12,7 +12,7 @@ cable managemnt items Desk / Network / Housing etc
 - [Reusable cable ties](https://www.amazon.ca/Reusable-Newlan-Adjustable-Organizer-Management/dp/B081HH5X61/ref=pd_bxgy_d_sccl_1/140-5475975-1980753?)
 - [Power strip holder under desk](https://www.amazon.ca/dp/B08N1HX647/ref=sspa_dk_detail_3?)
 - [J channel cable reaceway](https://www.amazon.ca/dp/B07Q8QN5CB/ref=sspa_dk_detail_2?th=1)
-- [HDMI 2.1](https://www.amazon.ca/Ubluker-Certified-HDCP2-3-Compatible-Soundbar/dp/B08TGSSHP4/ref=asc_df_B08TGSSHP4?th=1)
+- [HDMI 2.1](https://www.amazon.ca/Silkland-48Gbps-Certified-Compatible-Blu-ray/dp/B0CQP2XNYR/ref=sr_1_1_sspa?)
 - [DP High Speed]()
 
 
