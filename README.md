@@ -24,6 +24,16 @@ cable managemnt items Desk / Network / Housing etc
 - [USB 3.0 Extension](https://www.amazon.ca/UGREEN-Extension-Braided-Transfer-Playstation/dp/B086ZJB2JN/ref=sr_1_3?th=1)
 - [Audio 3.5 MM Extension - UGREEN](https://www.amazon.ca/UGREEN-Extension-Auxiliary-Headphone-Smartphones/dp/B00LM4ON2E/ref=sr_1_4?th=1) || [Audio 3.5 MM Extension - AMAZON](https://www.amazon.ca/Amazon-Basics-Female-Extension-Adapter/dp/B01CNAV2YW/ref=sr_1_5?)
 
+</BR>
+
+## NAS 
+
+</BR>
+
+- CAT6
+- CAT6
+- CAT7
+
 <!-- 
 
 - []()
